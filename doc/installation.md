@@ -39,7 +39,7 @@ Includes front-end module loader, back-end smarty plugins, etc. It can efficient
 $lights install modjs
 
 //download back-end smarty plugins
-$ligths install pc-plugin
+$lights install pc-plugin
 ```
 
 There are alse other back-end solutions coming soon, like java, go, etc.
